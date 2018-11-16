@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      {
+        "name": "nodebb-plugin-custom-homepage",
+        "raw": "nodebb-plugin-custom-homepage",
+        "rawSpec": "",
+        "scope": null,
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/graeme/Documents/workspace/prototypr-forum"
+    ]
+  ],
+  "_from": "nodebb-plugin-custom-homepage@latest",
+  "_id": "nodebb-plugin-custom-homepage@0.2.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/nodebb-plugin-custom-homepage",
+  "_nodeVersion": "6.10.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nodebb-plugin-custom-homepage-0.2.3.tgz_1508442302442_0.9734371495433152"
+  },
+  "_npmUser": {
+    "email": "barisusakli@gmail.com",
+    "name": "baris"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "nodebb-plugin-custom-homepage",
+    "raw": "nodebb-plugin-custom-homepage",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "http://registry.npmjs.org/nodebb-plugin-custom-homepage/-/nodebb-plugin-custom-homepage-0.2.3.tgz",
+  "_shasum": "d8414026d574b3614e8fdb638fc0082ef1aa3342",
+  "_shrinkwrap": null,
+  "_spec": "nodebb-plugin-custom-homepage",
+  "_where": "/Users/graeme/Documents/workspace/prototypr-forum",
+  "author": {
+    "email": "psycho.bunny@hotmail.com",
+    "name": "psychobunny"
+  },
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-plugin-custom-homepage/issues"
+  },
+  "dependencies": {
+    "validator": "^3.39.0"
+  },
+  "description": "Allows you to define a custom homepage for NodeBB",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "d8414026d574b3614e8fdb638fc0082ef1aa3342",
+    "tarball": "https://registry.npmjs.org/nodebb-plugin-custom-homepage/-/nodebb-plugin-custom-homepage-0.2.3.tgz"
+  },
+  "gitHead": "4d96449cb17f928c7510639749b995a47d87e35f",
+  "homepage": "https://github.com/psychobunny/nodebb-plugin-custom-homepage#readme",
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "badges",
+    "topic",
+    "labels"
+  ],
+  "license": "BSD-2-Clause",
+  "main": "./library.js",
+  "maintainers": [
+    {
+      "email": "psycho.bunny@hotmail.com",
+      "name": "psychobunny"
+    },
+    {
+      "email": "barisusakli@gmail.com",
+      "name": "baris"
+    },
+    {
+      "email": "julian@designcreateplay.com",
+      "name": "julianlam"
+    }
+  ],
+  "name": "nodebb-plugin-custom-homepage",
+  "nbbpm": {
+    "compatibility": "^1.6.0"
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psychobunny/nodebb-plugin-custom-homepage.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.3"
+}
